@@ -63,8 +63,8 @@ The Analysis Phase is the stage in the Software Development Life Cycle (SDLC) wh
 ---
 
 ## 3. Diagrams / Images
+<img width="193" height="211" alt="image" src="https://github.com/user-attachments/assets/1a8dbec5-ac8b-4ea0-ae27-23459ddf96ea" />
+<img width="375" height="211" alt="image" src="https://github.com/user-attachments/assets/7815a921-e798-4a40-9040-4e974f0db31d" />
 
-![Use Case Diagram](<img width="375" height="211" alt="image" src="https://github.com/user-attachments/assets/a50b1a13-4db5-48c6-bba7-ce8093fef539" />
-)
-![ERD Diagram](<img width="226" height="211" alt="image" src="https://github.com/user-attachments/assets/6401f09e-40b3-4a01-be84-a8850cd93264" />
-)
+
+
