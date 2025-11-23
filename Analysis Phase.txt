@@ -1,0 +1,42 @@
+Analysis Phase in Software Development 
+
+Definition & Importance: 
+The Analysis Phase is a critical step in the Software Development Life Cycle (SDLC) that involves gathering, analyzing, and documenting requirements for a software system. It ensures the development team fully understands the needs of stakeholders and lays the foundation for system design and implementation. 
+
+Sub-Steps: 
+
+Requirement Gathering: Collect functional and non-functional requirements from stakeholders. 
+
+System Analysis: Analyze the current system (if any) and identify gaps. 
+
+Feasibility Study: Assess technical, operational, and financial feasibility. 
+
+Solution Design Alternatives: Evaluate possible solutions and select the best approach. 
+
+Modeling & Documentation: Create data models, process flow diagrams, and SRS (Software Requirements Specification). 
+
+Deliverables / Outcomes: 
+
+Requirement Specifications Document (SRS) 
+
+Data Models & Flowcharts 
+
+Feasibility Reports 
+
+List of Functional and Non-Functional Requirements 
+
+Best Practices: 
+
+Engage stakeholders continuously 
+
+Verify requirements for clarity and completeness 
+
+Maintain proper documentation 
+
+Common Challenges: 
+
+Ambiguous or incomplete requirements 
+
+Frequent changes during analysis 
+
+Miscommunication between developers and stakeholders
