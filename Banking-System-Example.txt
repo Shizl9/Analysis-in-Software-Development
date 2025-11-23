@@ -21,8 +21,3 @@
 - Weighted with Story Points  
 - Acceptance criteria clearly defined for each user story
 
-| Column1 | Column2 | Column3 |
-| --- | --- | --- |
-| Bank Statement | Amount | Transaction Date |
-| --- | --- | --- |
-| Total Amount | | | |
