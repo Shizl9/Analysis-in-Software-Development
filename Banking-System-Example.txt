@@ -12,3 +12,10 @@
 | US08 | As a customer, I want to receive monthly statements so that I can review my account. | 3 | PDF statements are generated and emailed monthly. |
 | US09 | As a bank admin, I want to generate reports so that I can monitor system usage. | 5 | Reports show accurate metrics for accounts and transactions. |
 | US10 | As a customer, I want to update my personal information so that my account is current. | 2 | Changes are saved and confirmed. |
+
+
+## Product Backlog Example
+
+- Ordered by priority (high to low)  
+- Weighted with Story Points  
+- Acceptance criteria clearly defined for each user story

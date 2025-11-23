@@ -1,0 +1,118 @@
+# 🏨 Hotel Management System (HMS)
+
+---
+
+## 1. Analysis Phase
+
+### 1.1 Definition & Importance
+The Analysis Phase is the process of gathering, studying, documenting, and validating all required features of the Hotel Management System (HMS).  
+It ensures that all stakeholders such as receptionists, guests, managers, and housekeeping staff clearly understand the required system functions.
+
+**Importance:**
+- Reduces system errors caused by unclear requirements  
+- Helps define clear scope and features  
+- Ensures customer satisfaction  
+- Forms the base for backlog, design, development, and testing
+
+---
+
+### 1.2 Sub-Steps of the Analysis Phase
+
+#### ✔ Requirements Elicitation
+Collect requirements from:
+- Guests  
+- Receptionists  
+- Hotel managers  
+- Housekeeping staff  
+- Restaurant staff  
+- System administrators
+
+Using:
+- Interviews  
+- Surveys  
+- Observation  
+- Document analysis  
+
+#### ✔ Requirements Analysis
+Organize requirements into:
+- **Functional Requirements:**  
+  Booking rooms, managing guests, payments, housekeeping, restaurant orders  
+- **Non-Functional Requirements:**  
+  Performance, security, availability, scalability
+
+Identify:
+- Conflicts  
+- Dependencies  
+- Risks  
+
+#### ✔ Requirements Specification
+Document requirements in:
+- User Stories  
+- Use Case Diagrams  
+- Process diagrams (Booking workflow, Check-in/Check-out process)
+
+#### ✔ Requirements Validation
+Review all requirements with stakeholders and get approval.
+
+---
+
+### 1.3 Deliverables
+- User Requirements Document  
+- User Stories  
+- Product Backlog  
+- Use Case Diagrams  
+- ERD (Entity Relationship Diagram)
+
+---
+
+## 2. Product Backlog (User Stories Table)
+
+### 🗂 High-Priority Features
+
+| ID   | User Story | Story Points | Acceptance Criteria |
+|------|------------|--------------|---------------------|
+| US01 | As a guest, I want to book a room online so that I can reserve it before arrival. | 5 | Booking is saved, confirmation email sent. |
+| US02 | As a receptionist, I want to check in guests so that they can access their room. | 3 | Guest details saved, room status updated to "occupied". |
+| US03 | As a receptionist, I want to check out guests so that rooms become available again. | 3 | Room status changes to “available”, bill generated. |
+| US04 | As a manager, I want to view occupancy reports so that I can track hotel performance. | 5 | Report generated with correct daily/weekly/monthly stats. |
+| US05 | As housekeeping staff, I want to update room cleaning status so that the system stays accurate. | 2 | Room status updated to “clean”, “dirty”, or “in progress”. |
+| US06 | As a guest, I want to request room services so that I can receive assistance. | 3 | Service request logged and assigned to staff. |
+| US07 | As a receptionist, I want to generate guest bills so that checkout is smooth. | 3 | Bill includes room charges and additional services. |
+| US08 | As a hotel manager, I want to manage room prices so that I can apply seasonal changes. | 5 | Price updates reflected immediately in the system. |
+| US09 | As an admin, I want to manage user roles so that system security is maintained. | 5 | Admin can add/edit/delete staff roles and permissions. |
+| US10 | As a restaurant staff member, I want to add food orders to a guest bill so that charges are accurate. | 4 | Orders linked to the correct guest and added to the invoice. |
+
+---
+
+## 3. Detailed User Stories
+
+### **US01 – Guest Room Booking**
+- **Role:** Guest  
+- **Goal:** Book a room online  
+- **Benefit:** Reserve room before arrival  
+- **Acceptance Criteria:**  
+  - Guest selects room type  
+  - Booking saved  
+  - Confirmation email sent  
+- **Story Points:** 5  
+
+### **US02 – Guest Check-In**
+- **Role:** Receptionist  
+- **Goal:** Check in guests  
+- **Benefit:** Allow guest to access their room  
+- **Acceptance Criteria:**  
+  - Guest data stored  
+  - Room status updated to “occupied”  
+- **Story Points:** 3  
+
+### **US03 – Guest Check-Out**
+- **Role:** Receptionist  
+- **Goal:** Check out guests  
+- **Benefit:** Free room for next bookings  
+- **Acceptance Criteria:**  
+  - Bill generated  
+  - Room status changed to “available”  
+- **Story Points:** 3  
+
+*(Repeat for all remaining User Stories if needed)*
+
