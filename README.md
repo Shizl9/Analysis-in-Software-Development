@@ -91,17 +91,27 @@ The Analysis Phase is the stage in the Software Development Life Cycle (SDLC) wh
 
 
 
-## 4. Diagrams (Add Your Images)
+## 4. Diagrams 
 
 > Create a folder named **images/** then upload your diagrams inside it.
 
 Example:
 
-```markdown
-### Use Case Diagram
-<img width="340" height="379" alt="image" src="https://github.com/user-attachments/assets/636ba56f-71a6-4c2a-b23f-4c0a2d641ec8" />
 
-### ERD Diagram
-<img width="1051" height="571" alt="image" src="https://github.com/user-attachments/assets/eae6b0a6-239f-4e1e-a171-7f23619b3794" />
+### 🟦 Use Case Diagram  
+Paste your link here:
+
+![Use Case Diagram](<img width="340" height="379" alt="image" src="https://github.com/user-attachments/assets/87b9c7b5-637e-4fec-95c4-3334a3332992" />
+)
+
+---
+
+### 🟩 ERD Diagram  
+Paste your link here:
+
+![ERD Diagram](<img width="1051" height="571" alt="image" src="https://github.com/user-attachments/assets/081222cf-e0c3-4d05-ad53-3f6163785bf1" />
+)
+
+
 
 
