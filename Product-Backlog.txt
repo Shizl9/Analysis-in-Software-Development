@@ -1,0 +1,28 @@
+Product Backlog Development 
+
+Definition: 
+A product backlog is an ordered list of all features, enhancements, fixes, and technical work required in a product. It serves as a central repository of work items for the development team. 
+
+Creating & Structuring a Product Backlog: 
+
+Break down features into small, manageable user stories 
+
+Assign unique IDs or labels to each story 
+
+Include descriptions, priorities, and initial estimates 
+
+Backlog Prioritization Techniques: 
+
+MoSCoW Method: Must-have, Should-have, Could-have, Won’t-have 
+
+Business Value / ROI prioritization 
+
+Risk or complexity-based prioritization 
+
+Backlog Refinement & Maintenance: 
+
+Regularly review and update backlog items 
+
+Split large stories into smaller tasks 
+
+Re-prioritize based on changing requirements 
