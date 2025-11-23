@@ -1,0 +1,26 @@
+ User Stories 
+
+Definition & Format: 
+User stories describe a feature from the perspective of the user. The standard format: 
+
+As a [user role], I want [goal] so that [reason]. 
+ 
+
+Writing Effective User Stories: 
+
+Keep them simple and concise 
+
+Focus on user needs, not technical implementation 
+
+Ensure they are testable 
+
+Acceptance Criteria: 
+
+Conditions that must be met for the story to be considered complete 
+
+Example: 
+
+Given a user is logged in, 
+When they request an account statement, 
+Then the system generates a PDF report. 
+ 
