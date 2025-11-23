@@ -1,0 +1,19 @@
+Weighting and Estimation 
+
+Story Point Estimation Techniques: 
+
+Assign points based on effort, complexity, and risk 
+
+Use relative sizing (compare stories against a baseline story) 
+
+Methods: 
+
+Planning Poker: Team members assign points independently, discuss discrepancies, and agree on a value 
+
+T-shirt Sizing: Small, Medium, Large, XL for rough estimation 
+
+Fibonacci Sequence: 1, 2, 3, 5, 8, 13… to represent increasing effort 
+
+Weighting User Stories: 
+
+Consider complexity, priority, and business value when assigning weights 
