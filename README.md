@@ -68,3 +68,40 @@ The Analysis Phase is the stage in the Software Development Life Cycle (SDLC) wh
 
 
 
+
+ Product Backlog (User Stories Table)
+
+### 🗂 High-Priority Features
+
+| ID   | User Story | Story Points | Acceptance Criteria |
+|------|------------|--------------|---------------------|
+| US01 | As a guest, I want to book a room online so that I can reserve it before arrival. | 5 | Booking is saved, confirmation email sent. |
+| US02 | As a receptionist, I want to check in guests so that they can access their room. | 3 | Guest details saved, room status updated to "occupied". |
+| US03 | As a receptionist, I want to check out guests so that rooms become available again. | 3 | Room status changes to “available”, bill generated. |
+| US04 | As a manager, I want to view occupancy reports so that I can track hotel performance. | 5 | Report generated with correct daily/weekly/monthly stats. |
+| US05 | As housekeeping staff, I want to update room cleaning status so that the system stays accurate. | 2 | Room status updated to “clean”, “dirty”, or “in progress”. |
+| US06 | As a guest, I want to request room services so that I can receive assistance. | 3 | Service request logged and assigned to staff. |
+| US07 | As a receptionist, I want to generate guest bills so that checkout is smooth. | 3 | Bill includes room charges and additional services. |
+| US08 | As a hotel manager, I want to manage room prices so that I can apply seasonal changes. | 5 | Price updates reflected immediately in the system. |
+| US09 | As an admin, I want to manage user roles so that system security is maintained. | 5 | Admin can add/edit/delete staff roles and permissions. |
+| US10 | As a restaurant staff member, I want to add food orders to a guest bill so that charges are accurate. | 4 | Orders linked to the correct guest and added to the invoice. |
+
+
+
+
+
+
+## 4. Diagrams (Add Your Images)
+
+> Create a folder named **images/** then upload your diagrams inside it.
+
+Example:
+
+```markdown
+### Use Case Diagram
+<img width="340" height="379" alt="image" src="https://github.com/user-attachments/assets/636ba56f-71a6-4c2a-b23f-4c0a2d641ec8" />
+
+### ERD Diagram
+<img width="1051" height="571" alt="image" src="https://github.com/user-attachments/assets/eae6b0a6-239f-4e1e-a171-7f23619b3794" />
+
+
